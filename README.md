@@ -1,4 +1,5 @@
 # Semester project 2 / Coding
+![image](https://user-images.githubusercontent.com/74776389/194117470-799f1cee-e733-49b0-9666-663ebf562f35.png)
 
 
 To learn HTML basic coding
@@ -12,11 +13,11 @@ A website to learn HTML tags from, the way to use them and all the important poi
 	• Admin side to create, edit and delete posts
   
 # Built with
-	• JavaScript
-	• React.js
-	• CSS
-	• Sass
-	• HTML
+- JavaScript
+- React.js
+- CSS
+- Sass
+- HTML
   
   
 # 🚀 Getting started
