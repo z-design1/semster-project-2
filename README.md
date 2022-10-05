@@ -1,5 +1,5 @@
 # Semester project 2 / Coding
-![image](https://user-images.githubusercontent.com/74776389/194116602-210e8f50-5367-4948-835b-bc4459373ce4.png)
+
 
 To learn HTML basic coding
 
@@ -19,8 +19,7 @@ A website to learn HTML tags from, the way to use them and all the important poi
 	• HTML
   
   
-# 🚀 Getting started
-
+🚀 Getting started
 develop
 npm run develop
 # or
@@ -31,19 +30,13 @@ npm run start
 yarn start
 build
 Build your admin panel.
+
 npm run build
 # or
 yarn build
-
-
-# 📱 Contact
-
-	• https://www.linkedin.com/in/zhino-babamiri-073122237/
-	• zhinobabamiri@gmail.com
-	• https://github.com/z-design1
-  
-  
-# ✨ Contribution
-
+📱 Contact
+https://www.linkedin.com/in/zhino-babamiri-073122237/
+zhinobabamiri@gmail.com
+https://github.com/z-design1
+✨ Contribution
 No contribution
-
